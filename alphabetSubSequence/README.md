@@ -1,7 +1,7 @@
 ### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
 
 ---
-Check whether the given string is a subsequence of the plaintext alphabet.
+Check whether the given string is an increasing sequence of the plaintext alphabet, without duplicates.
 
 **Example**
 
