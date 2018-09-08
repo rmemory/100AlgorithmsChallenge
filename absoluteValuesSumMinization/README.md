@@ -6,6 +6,8 @@ Given a sorted array of integers a, find an integer x from a such that the value
 is the smallest possible (here abs denotes the absolute value).
 If there are several possible answers, output the smallest one.
 
+Find the median ...
+
 **Example**
 
 For a = [2, 4, 7], the output should be
